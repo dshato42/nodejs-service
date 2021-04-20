@@ -1,0 +1,13 @@
+{
+    "name": "web_server",
+    "version": "0.0.1",
+    "description": "Node.js on Docker",
+    "author": "David Shato",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.16.1"
+    }
+}
